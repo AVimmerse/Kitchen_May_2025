@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 3
   tags:
   - Kitchen
+  - CounterTop
+  - Base
+  - Doors
+  - Drawers
+  - Knobs
+  - Pulls
+  - Appliance
   layers:
   - Default
   - TransparentFX
