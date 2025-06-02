@@ -12,6 +12,7 @@ TagManager:
   - Knobs
   - Pulls
   - Appliance
+  - Granite
   layers:
   - Default
   - TransparentFX
